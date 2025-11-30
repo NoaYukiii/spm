@@ -26,4 +26,4 @@ if __name__ == "__main__":
     print(login("admin", "admin123"))   # 预期输出：成功登录
     print(login("admin", "wrongpwd"))  # 预期输出：密码错误
     print(login("guest", "123"))       # 预期输出：用户名不存在
-    print("9999")
+    print("8888")
