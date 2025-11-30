@@ -1,0 +1,6 @@
+{
+    "version": "1.1",
+    "author": "团队名称",
+    "last_updated": "2025-11-10",
+    "modules": ["login", "index"]
+}
